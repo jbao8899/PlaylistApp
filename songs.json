@@ -4,7 +4,9 @@
 			"name": "Hikariful",
 			"url": "https://www.youtube.com/watch?v=fjj5WbtenTM",
 			"weight": 1,
-			"artist": "Kalafina",
+			"artists": [
+				"Kalafina"
+			],
 			"year": 2012,
 			"month": 10,
 			"day": 24,
@@ -17,7 +19,9 @@
 			"name": "Kimino Ginno Niwa",
 			"url": "https://www.youtube.com/watch?v=XkSjf0ah-O4",
 			"weight": 2,
-			"artist": "Kalafina",
+			"artists": [
+				"Kalafina"
+			],
 			"year": 2013,
 			"month": 11,
 			"day": 6,
@@ -30,7 +34,9 @@
 			"name": "Mirai",
 			"url": "https://www.youtube.com/watch?v=bAZuZjMD7lE",
 			"weight": 2,
-			"artist": "Kalafina",
+			"artists": [
+				"Kalafina"
+			],
 			"year": 2013,
 			"month": 3,
 			"day": 20,
@@ -45,7 +51,9 @@
 			"name": "Mada Dameyo",
 			"url": "https://www.youtube.com/watch?v=u_BXFfQhSDk",
 			"weight": 2,
-			"artist": "Yuki Kajiura",
+			"artists": [
+				"Yuki Kajiura"
+			],
 			"year": 2013,
 			"month": 10,
 			"day": 26,
@@ -58,7 +66,9 @@
 			"name": "Noi!",
 			"url": "https://www.youtube.com/watch?v=7YwH3yYIkJ4",
 			"weight": 2,
-			"artist": "Yuki Kajiura",
+			"artists": [
+				"Yuki Kajiura"
+			],
 			"year": 2013,
 			"month": 10,
 			"day": 26,
@@ -71,7 +81,9 @@
 			"name": "Misterioso",
 			"url": "https://www.youtube.com/watch?v=7tNK3BGbd1k",
 			"weight": 2,
-			"artist": "Kalafina",
+			"artists": [
+				"Kalafina"
+			],
 			"year": 2013,
 			"month": 11,
 			"day": 6,
@@ -84,7 +96,9 @@
 			"name": "Akogaresaita",
 			"url": "https://www.youtube.com/watch?v=xlbWL06n4MM",
 			"weight": 3,
-			"artist": "Aoi Yuki",
+			"artists": [
+				"Aoi Yuki"
+			],
 			"year": 2016,
 			"month": 1,
 			"day": 1,
@@ -92,6 +106,111 @@
 			"genres": [
 				"pop"
 			]
+		},
+		{
+			"name": "Mebius Ash",
+			"url": "https://www.youtube.com/watch?v=j5KrYVLkJxM",
+			"weight": 2,
+			"artists": [
+				"Chiwa Saito"
+			],
+			"year": 2017,
+			"month": 8,
+			"day": 9,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Yumeoto",
+			"url": "https://www.youtube.com/watch?v=mo6HaQCW6Bc",
+			"weight": 1,
+			"artists": [
+				"Aoi Yuki",
+				"Chiwa Saito"
+			],
+			"year": 2017,
+			"month": 8,
+			"day": 9,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Naturally",
+			"url": "https://www.youtube.com/watch?v=pFgAdrGjflU",
+			"weight": 2,
+			"artists": [
+				"Aoi Yuki",
+				"Eri Kitamura"
+			],
+			"year": 2017,
+			"month": 8,
+			"day": 9,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "And I'm Home",
+			"url": "https://www.youtube.com/watch?v=GIlMPJNk-pU",
+			"weight": 3,
+			"artists": [
+				"Eri Kitamura",
+				"Ai Nonaka"
+			],
+			"year": 2013,
+			"month": 12,
+			"day": 25,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Stairs",
+			"url": "https://www.youtube.com/watch?v=qR2KeUJqSN4",
+			"weight": 2,
+			"artists": [
+				"Kaori Mizuhashi",
+				"Ai Nonaka"
+			],
+			"year": 2017,
+			"month": 8,
+			"day": 9,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "final phase",
+			"url": "https://www.youtube.com/watch?v=gQ91NaeO2To",
+			"weight": 3,
+			"artists": [
+				"fripSide"
+			],
+			"year": 2020,
+			"month": 2,
+			"day": 26,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "She is a Witch",
+			"url": "https://www.youtube.com/watch?v=QPFYnrDssSQ",
+			"weight": 2,
+			"artists": [
+				"Yuki Kajiura"
+			],
+			"year": 2017,
+			"month": 8,
+			"day": 9
 		}
 	]
 }
