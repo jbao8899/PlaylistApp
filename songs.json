@@ -590,6 +590,21 @@
 			"genres": [
 				"dream pop"
 			]
+		},
+		{
+			"name": "Happy Bite",
+			"url": "https://www.youtube.com/watch?v=-EvSLS1QIYY",
+			"weight": 3,
+			"artists": [
+				"Emiri Kato"
+			],
+			"year": 2013,
+			"month": 8,
+			"day": 17,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
 		}
 	]
 }
