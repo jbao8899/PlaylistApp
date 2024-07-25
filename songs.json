@@ -81,8 +81,8 @@
 				"Taylor Swift"
 			],
 			"year": 2009,
-			"month": 20,
-			"day": 4,
+			"month": 4,
+			"day": 20,
 			"albums": [
 				"Fearless"
 			],
@@ -320,7 +320,7 @@
 			"language": "en",
 			"genres": [
 				"pop",
-				"R&B"
+				"r&b"
 			]
 		},
 		{
@@ -335,6 +335,60 @@
 			"day": 10,
 			"albums": [
 				"First Band on the Moon"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Rolling in the Deep",
+			"url": "https://www.youtube.com/watch?v=rYEDA3JcQqw",
+			"weight": 3,
+			"artists": [
+				"Adele"
+			],
+			"year": 2010,
+			"month": 11,
+			"day": 29,
+			"albums": [
+				"21"
+			],
+			"language": "en",
+			"genres": [
+				"r&b"
+			]
+		},
+		{
+			"name": "Party In The U.S.A.",
+			"url": "https://www.youtube.com/watch?v=M11SvDtPBhA",
+			"weight": 3,
+			"artists": [
+				"Miley Cyrus"
+			],
+			"year": 2009,
+			"month": 8,
+			"day": 4,
+			"albums": [
+				"The Time of Our Lives"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Shake It Off",
+			"url": "https://www.youtube.com/watch?v=nfWlot6h_JM",
+			"weight": 3,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2014,
+			"month": 8,
+			"day": 19,
+			"albums": [
+				"1989"
 			],
 			"language": "en",
 			"genres": [
