@@ -45,8 +45,8 @@
 				"Katy Perry"
 			],
 			"year": 2010,
-			"month": 26,
-			"day": 10,
+			"month": 8,
+			"day": 24,
 			"albums": [
 				"Teenage Dream"
 			],
@@ -88,7 +88,8 @@
 			],
 			"language": "en",
 			"genres": [
-				"pop"
+				"pop",
+				"country"
 			]
 		},
 		{
@@ -396,6 +397,490 @@
 			]
 		},
 		{
+			"name": "We Are Never Ever Getting Back Together",
+			"url": "https://www.youtube.com/watch?v=WA4iX5D9Z64",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2012,
+			"month": 8,
+			"day": 13,
+			"albums": [
+				"Red"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Blank Space",
+			"url": "https://www.youtube.com/watch?v=e-ORhEE9VVg",
+			"weight": 4,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2014,
+			"month": 11,
+			"day": 10,
+			"albums": [
+				"1989"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "This Kiss",
+			"url": "https://www.youtube.com/watch?v=Vf78alvpxRM",
+			"weight": 3,
+			"artists": [
+				"Carly Rae Jepsen"
+			],
+			"year": 2012,
+			"month": 9,
+			"day": 10,
+			"albums": [
+				"Kiss"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Bien o Mal",
+			"url": "https://www.youtube.com/watch?v=KTr9HMnAWNE",
+			"weight": 2,
+			"artists": [
+				"Julieta Venegas"
+			],
+			"year": 2010,
+			"month": 1,
+			"day": 18,
+			"albums": [
+				"Otra Cosa"
+			],
+			"language": "es",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Teenage Dream",
+			"url": "https://www.youtube.com/watch?v=98WtmW-lfeE",
+			"weight": 4,
+			"artists": [
+				"Katy Perry"
+			],
+			"year": 2010,
+			"month": 7,
+			"day": 23,
+			"albums": [
+				"Teenage Dream"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Look What You Made Me Do",
+			"url": "https://www.youtube.com/watch?v=3tmd-ClpJxA",
+			"weight": 4,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2017,
+			"month": 8,
+			"day": 24,
+			"albums": [
+				"Reputation"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Lento",
+			"url": "https://www.youtube.com/watch?v=CuTx1QwLPjM",
+			"weight": 3,
+			"artists": [
+				"Julieta Venegas"
+			],
+			"year": 2004,
+			"month": 7,
+			"day": 30,
+			"albums": [
+				"Si"
+			],
+			"language": "es",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Gorgeous",
+			"url": "https://www.youtube.com/watch?v=EUoe7cf0HYw",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2017,
+			"month": 10,
+			"day": 20,
+			"albums": [
+				"Reputation"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Solo Dime Tu",
+			"url": "https://www.youtube.com/watch?v=vhE1B-WRd0o",
+			"weight": 3,
+			"artists": [
+				"Tini"
+			],
+			"year": 2016,
+			"month": 4,
+			"day": 29,
+			"albums": [
+				"Tini"
+			],
+			"language": "es",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Siempre Brillaras",
+			"url": "https://www.youtube.com/watch?v=O6RimxEkDPM",
+			"weight": 4,
+			"artists": [
+				"Tini"
+			],
+			"year": 2016,
+			"month": 3,
+			"day": 25,
+			"albums": [
+				"Tini"
+			],
+			"language": "es",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "The Way",
+			"url": "https://www.youtube.com/watch?v=_sV0S8qWSy0",
+			"weight": 4,
+			"artists": [
+				"Ariana Grande",
+				"Mac Miller"
+			],
+			"year": 2013,
+			"month": 3,
+			"day": 26,
+			"albums": [
+				"Yours Truly"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"R&B"
+			]
+		},
+		{
+			"name": "Ours",
+			"url": "https://www.youtube.com/watch?v=LZ34LlaIk88",
+			"weight": 4,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2010,
+			"month": 10,
+			"day": 25,
+			"albums": [
+				"Speak Now"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"country"
+			]
+		},
+		{
+			"name": "Grenade",
+			"url": "https://www.youtube.com/watch?v=SR6iYWJxHqs",
+			"weight": 3,
+			"artists": [
+				"Bruno Mars"
+			],
+			"year": 2010,
+			"month": 10,
+			"day": 4,
+			"albums": [
+				"Doo-Wops & Hooligans"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Celeste",
+			"url": "https://www.youtube.com/watch?v=BDip6DYnNVQ",
+			"weight": 4,
+			"artists": [
+				"Ezra Vine"
+			],
+			"year": 2013,
+			"month": 8
+			"day": 16,
+			"albums": [
+				"Celeste"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "The One That Got Away",
+			"url": "https://www.youtube.com/watch?v=Ahha3Cqe_fk",
+			"weight": 4,
+			"artists": [
+				"Katy Perry"
+			],
+			"year": 2010,
+			"month": 8,
+			"day": 24,
+			"albums": [
+				"Teenage Dream"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "If I Die Young",
+			"url": "https://www.youtube.com/watch?v=7NJqUN9TClM",
+			"weight": 4,
+			"artists": [
+				"The Band Perry"
+			],
+			"year": 2010,
+			"month": 6,
+			"day": 8,
+			"albums": [
+				"The Band Perry"
+			],
+			"language": "en",
+			"genres": [
+				"country"
+			]
+		},
+		{
+			"name": "Mine",
+			"url": "https://www.youtube.com/watch?v=XPBwXKgDTdE",
+			"weight": 4,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2010,
+			"month": 8,
+			"day": 4,
+			"albums": [
+				"Speak Now"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"country"
+			]
+		},
+		{
+			"name": "Play It Again",
+			"url": "https://www.youtube.com/watch?v=ALV-QtDFpSw",
+			"weight": 4,
+			"artists": [
+				"Luke Bryan"
+			],
+			"year": 2013,
+			"month": 8,
+			"day": 13,
+			"albums": [
+				"Crash My Party"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"country"
+			]
+		},
+		{
+			"name": "Chainsaw",
+			"url": "https://www.youtube.com/watch?v=L7ULNxbDDdY",
+			"weight": 3,
+			"artists": [
+				"The Band Perry"
+			],
+			"year": 2013,
+			"month": 4,
+			"day": 2,
+			"albums": [
+				"Pioneer"
+			],
+			"language": "en",
+			"genres": [
+				"country"
+			]
+		},
+		{
+			"name": "Done",
+			"url": "https://www.youtube.com/watch?v=4emYaDbaJ8w",
+			"weight": 3,
+			"artists": [
+				"The Band Perry"
+			],
+			"year": 2013,
+			"month": 3,
+			"day": 11,
+			"albums": [
+				"Pioneer"
+			],
+			"language": "en",
+			"genres": [
+				"country"
+			]
+		},
+		{
+			"name": "Better Dig Two",
+			"url": "https://www.youtube.com/watch?v=ZIdCo_QAz_E",
+			"weight": 4,
+			"artists": [
+				"The Band Perry"
+			],
+			"year": 2012,
+			"month": 10,
+			"day": 29,
+			"albums": [
+				"Pioneer"
+			],
+			"language": "en",
+			"genres": [
+				"country"
+			]
+		},
+		{
+			"name": "Red",
+			"url": "https://www.youtube.com/watch?v=Zlot0i3Zykw",
+			"weight": 4,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2012,
+			"month": 10,
+			"day": 22,
+			"albums": [
+				"Red"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"country"
+			]
+		},
+		{
+			"name": "Sirius",
+			"url": "https://www.youtube.com/watch?v=HNJ4Hjftstg",
+			"weight": 4,
+			"artists": [
+				"Aoi Eir"
+			],
+			"year": 2013,
+			"month": 11,
+			"day": 13,
+			"track_number": 5,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "The Middle",
+			"url": "https://www.youtube.com/watch?v=Lj6Y6JCu-l4",
+			"weight": 3,
+			"artists": [
+				"Zedd",
+				"Maren Morris",
+				"Grey"
+			],
+			"year": 2018,
+			"month": 1,
+			"day": 23,
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Roar",
+			"url": "https://youtube.com/watch?v=CevxZvSJLk8",
+			"weight": 2,
+			"artists": [
+				"Katy Perry"
+			],
+			"year": 2013,
+			"month": 8,
+			"day": 10,
+			"albums": [
+				"Prism"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Magia",
+			"url": "https://www.youtube.com/watch?v=QwquipMpsiQ",
+			"weight": 3,
+			"artists": [
+				"Kalafina"
+			],
+			"year": 2011,
+			"month": 2,
+			"day": 16,
+			"language": "ja",
+			"genres": [
+				"pop",
+				"rock"
+			]
+		},
+		{
+			"name": "LEVEL5-judgelight-",
+			"url": "https://www.youtube.com/watch?v=W4YbIxlfw8k",
+			"weight": 3,
+			"artists": [
+				"fripSide"
+			],
+			"year": 2010,
+			"month": 2,
+			"day": 17,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
 			"name": "Hikariful",
 			"url": "https://www.youtube.com/watch?v=fjj5WbtenTM",
 			"weight": 1,
@@ -659,6 +1144,39 @@
 			"genres": [
 				"pop"
 			]
-		}
+		},
+		{
+			"name": "Lavender Haze",
+			"url": "https://www.youtube.com/watch?v=h8DLofLM7No",
+			"weight": 3,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2022,
+			"month": 11,
+			"day": 29,
+			"albums": [
+				"Midnights"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "only my railgun",
+			"url": "https://www.youtube.com/watch?v=ZhIxg6_Femo",
+			"weight": 3,
+			"artists": [
+				"fripSide"
+			],
+			"year": 2009,
+			"month": 11,
+			"day": 4,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
 	]
 }
