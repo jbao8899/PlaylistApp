@@ -3,7 +3,7 @@
 		{
 			"name": "I Kissed a Girl",
 			"url": "https://www.youtube.com/watch?v=tAp9BKosZXs",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Katy Perry"
 			],
@@ -21,7 +21,7 @@
 		{
 			"name": "Havana",
 			"url": "https://www.youtube.com/watch?v=HCjNJDNzw8Y",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Camila Cabello",
 				"Young Thug"
@@ -131,7 +131,7 @@
 		{
 			"name": "小苹果",
 			"url": "https://www.youtube.com/watch?v=23-6WVTINZw",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Chopstick Brothers"
 			],
@@ -164,7 +164,7 @@
 		{
 			"name": "La Cintura",
 			"url": "https://www.youtube.com/watch?v=Eg4LUvUjUWI",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Alvaro Soler"
 			],
@@ -182,7 +182,7 @@
 		{
 			"name": "El Mismo Sol",
 			"url": "https://www.youtube.com/watch?v=aNHwNreDp3A",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Alvaro Soler"
 			],
@@ -200,7 +200,7 @@
 		{
 			"name": "Sofia",
 			"url": "https://www.youtube.com/watch?v=aNHwNreDp3A",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Alvaro Soler"
 			],
@@ -233,7 +233,7 @@
 		{
 			"name": "I'm Comin' Over",
 			"url": "https://www.youtube.com/watch?v=uyGSe76rAJc",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Chris Young"
 			],
@@ -289,7 +289,7 @@
 		{
 			"name": "Call Me Maybe",
 			"url": "https://www.youtube.com/watch?v=fWNaR-rxAic",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Carly Rae Jepsen"
 			],
@@ -417,7 +417,7 @@
 		{
 			"name": "Blank Space",
 			"url": "https://www.youtube.com/watch?v=e-ORhEE9VVg",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -471,7 +471,7 @@
 		{
 			"name": "Teenage Dream",
 			"url": "https://www.youtube.com/watch?v=98WtmW-lfeE",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Katy Perry"
 			],
@@ -489,7 +489,7 @@
 		{
 			"name": "Look What You Made Me Do",
 			"url": "https://www.youtube.com/watch?v=3tmd-ClpJxA",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -561,7 +561,7 @@
 		{
 			"name": "Siempre Brillaras",
 			"url": "https://www.youtube.com/watch?v=O6RimxEkDPM",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Tini"
 			],
@@ -579,7 +579,7 @@
 		{
 			"name": "The Way",
 			"url": "https://www.youtube.com/watch?v=_sV0S8qWSy0",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Ariana Grande",
 				"Mac Miller"
@@ -599,7 +599,7 @@
 		{
 			"name": "Ours",
 			"url": "https://www.youtube.com/watch?v=LZ34LlaIk88",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -636,7 +636,7 @@
 		{
 			"name": "Celeste",
 			"url": "https://www.youtube.com/watch?v=BDip6DYnNVQ",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Ezra Vine"
 			],
@@ -654,7 +654,7 @@
 		{
 			"name": "The One That Got Away",
 			"url": "https://www.youtube.com/watch?v=Ahha3Cqe_fk",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Katy Perry"
 			],
@@ -672,7 +672,7 @@
 		{
 			"name": "If I Die Young",
 			"url": "https://www.youtube.com/watch?v=7NJqUN9TClM",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"The Band Perry"
 			],
@@ -690,7 +690,7 @@
 		{
 			"name": "Mine",
 			"url": "https://www.youtube.com/watch?v=XPBwXKgDTdE",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -709,7 +709,7 @@
 		{
 			"name": "Play It Again",
 			"url": "https://www.youtube.com/watch?v=ALV-QtDFpSw",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Luke Bryan"
 			],
@@ -764,7 +764,7 @@
 		{
 			"name": "Better Dig Two",
 			"url": "https://www.youtube.com/watch?v=ZIdCo_QAz_E",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"The Band Perry"
 			],
@@ -782,7 +782,7 @@
 		{
 			"name": "Red",
 			"url": "https://www.youtube.com/watch?v=Zlot0i3Zykw",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -801,7 +801,7 @@
 		{
 			"name": "Sirius",
 			"url": "https://www.youtube.com/watch?v=HNJ4Hjftstg",
-			"weight": 4,
+			"weight": 3,
 			"artists": [
 				"Aoi Eir"
 			],
@@ -866,15 +866,60 @@
 			]
 		},
 		{
-			"name": "LEVEL5-judgelight-",
-			"url": "https://www.youtube.com/watch?v=W4YbIxlfw8k",
+			"name": "Platinum Disco",
+			"url": "https://www.youtube.com/watch?v=14FOPsSCIPs",
 			"weight": 3,
 			"artists": [
-				"fripSide"
+				"Yuka Iguchi"
 			],
-			"year": 2010,
-			"month": 2,
-			"day": 17,
+			"year": 2012,
+			"month": 1,
+			"day": 20,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "oath sign",
+			"url": "https://www.youtube.com/watch?v=GJ4yehnerHQ",
+			"weight": 3,
+			"artists": [
+				"LiSA"
+			],
+			"year": 2011,
+			"month": 11,
+			"day": 23,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Ai wo Utae",
+			"url": "https://www.youtube.com/watch?v=ePuy539e7lk",
+			"weight": 3,
+			"artists": [
+				"Luna Haruna"
+			],
+			"year": 2013,
+			"month": 7,
+			"day": 7,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "chocolate insomnia",
+			"url": "https://www.youtube.com/watch?v=-x4MvRuF9TI",
+			"weight": 3,
+			"artists": [
+				"Yui Horie"
+			],
+			"year": 2013,
+			"month": 7,
+			"day": 7,
 			"language": "ja",
 			"genres": [
 				"pop"
@@ -1095,6 +1140,21 @@
 			"day": 9
 		},
 		{
+			"name": "LEVEL5-judgelight-",
+			"url": "https://www.youtube.com/watch?v=W4YbIxlfw8k",
+			"weight": 3,
+			"artists": [
+				"fripSide"
+			],
+			"year": 2010,
+			"month": 2,
+			"day": 17,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
 			"name": "Space Song",
 			"url": "https://www.youtube.com/watch?v=GAFwrXOsL68",
 			"weight": 1,
@@ -1178,5 +1238,89 @@
 				"pop"
 			]
 		},
+		{
+			"name": "Absolute Configuration",
+			"url": "https://www.youtube.com/watch?v=b1xyLNp24s8",
+			"weight": 2,
+			"artists": [
+				"Yuki Kajiura"
+			],
+			"year": 2013,
+			"month": 10,
+			"day": 26,
+			"language": "ja",
+		},
+		{
+			"name": "Naisho no Hanashi",
+			"url": "https://www.youtube.com/watch?v=qcIqeq83tO0",
+			"weight": 3,
+			"artists": [
+				"ClariS"
+			],
+			"year": 2012,
+			"month": 1,
+			"day": 7,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Kimino Shiranai Monogatari",
+			"url": "https://www.youtube.com/watch?v=eLPs_w-FepA",
+			"weight": 3,
+			"artists": [
+				"Supercell"
+			],
+			"year": 2009,
+			"month": 7,
+			"day": 3,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Wonder Stella",
+			"url": "https://www.youtube.com/watch?v=rHpzTO_P9xw",
+			"weight": 3,
+			"artists": [
+				"fhana"
+			],
+			"year": 2015,
+			"month": 8,
+			"day": 5,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Oblivious",
+			"url": "https://www.youtube.com/watch?v=UI8Iy7kmRxo",
+			"weight": 3,
+			"artists": [
+				"Kalafina"
+			],
+			"year": 2008,
+			"month": 1,
+			"day": 23,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Sudachi no Uta",
+			"url": "https://www.youtube.com/watch?v=ckXtZrTzJbM",
+			"weight": 3,
+			"artists": [
+				"Anemoneria"
+			],
+			"year": 2021,
+			"month": 1,
+			"day": 26,
+			"language": "ja"
+		}
 	]
 }
