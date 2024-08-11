@@ -158,7 +158,8 @@
 			],
 			"language": "es",
 			"genres": [
-				"country"
+				"folk",
+				"pop"
 			]
 		},
 		{
@@ -283,7 +284,8 @@
 			],
 			"language": "en",
 			"genres": [
-				"country"
+				"country",
+				"pop"
 			]
 		},
 		{
@@ -920,6 +922,198 @@
 			"year": 2013,
 			"month": 7,
 			"day": 7,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Paradisus-Paradoxum",
+			"url": "https://www.youtube.com/watch?v=K5bm_ER9CKw",
+			"weight": 2,
+			"artists": [
+				"MYTH & ROID"
+			],
+			"year": 2016,
+			"month": 8,
+			"day": 24,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Stay Alive",
+			"url": "https://www.youtube.com/watch?v=z-NuxWkYtlI",
+			"weight": 3,
+			"artists": [
+				"Rie Takahashi"
+			],
+			"year": 2016,
+			"month": 8,
+			"day": 24,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Realize",
+			"url": "https://www.youtube.com/watch?v=AwHapidVQlI",
+			"weight": 3,
+			"artists": [
+				"Suzuki Konomi"
+			],
+			"year": 2020,
+			"month": 8,
+			"day": 26,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Memento",
+			"url": "https://www.youtube.com/watch?v=CXcEbr1ixEc",
+			"weight": 2,
+			"artists": [
+				"nonoc"
+			],
+			"year": 2020,
+			"month": 9,
+			"day": 2,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Believe in you",
+			"url": "https://www.youtube.com/watch?v=ZahXTDLFS6E",
+			"weight": 3,
+			"artists": [
+				"nonoc"
+			],
+			"year": 2021,
+			"month": 3,
+			"day": 3,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Blumenkranz",
+			"url": "https://www.youtube.com/watch?v=-0btRCbrZRQ",
+			"weight": 3,
+			"artists": [
+				"Cyua"
+			],
+			"year": 2013,
+			"month": 12,
+			"day": 25,
+			"language": "de"
+		},
+		{
+			"name": "willow",
+			"url": "https://www.youtube.com/watch?v=RsEZmictANA",
+			"weight": 3,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2020,
+			"month": 12,
+			"day": 11,
+			"albums": [
+				"Evermore"
+			],
+			"language": "en",
+			"genres": [
+				"folk"
+			]
+		},
+		{
+			"name": "ME!",
+			"url": "https://www.youtube.com/watch?v=FuXNumBwDOM",
+			"weight": 3,
+			"artists": [
+				"Taylor Swift",
+				"Brendon Urie",
+				"Panic! at the Disco"
+			],
+			"year": 2019,
+			"month": 4,
+			"day": 26,
+			"albums": [
+				"Lover"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Wildest Dreams",
+			"url": "https://www.youtube.com/watch?v=IdneKLhsWOQ",
+			"weight": 3,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2014,
+			"month": 10,
+			"day": 27,
+			"albums": [
+				"1989"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Love Story",
+			"url": "https://www.youtube.com/watch?v=8xg3vE8Ie_E",
+			"weight": 3,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2008,
+			"month": 9,
+			"day": 15,
+			"albums": [
+				"Fearless"
+			],
+			"language": "en",
+			"genres": [
+				"country",
+				"pop"
+			]
+		},
+		{
+			"name": "Mata Ashita",
+			"url": "https://www.youtube.com/watch?v=62YJaw3wXe8",
+			"weight": 3,
+			"artists": [
+				"Aoi Yuki"
+			],
+			"year": 2013,
+			"month": 12,
+			"day": 25,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Sis Puella Magica!",
+			"url": "https://www.youtube.com/watch?v=bzlHPlq8hIs",
+			"weight": 3,
+			"artists": [
+				"Yuki Kajiura"
+			],
+			"year": 2013,
+			"month": 12,
+			"day": 25,
 			"language": "ja",
 			"genres": [
 				"pop"
