@@ -1120,6 +1120,74 @@
 			]
 		},
 		{
+			"name": "Innocent Starter",
+			"url": "https://www.youtube.com/watch?v=6nMiFspQ6bc",
+			"weight": 3,
+			"artists": [
+				"Nana Mizuki"
+			],
+			"year": 2004,
+			"month": 10,
+			"day": 6,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Eternal Blaze",
+			"url": "https://www.youtube.com/watch?v=cZFPVAOrdXQ",
+			"weight": 3,
+			"artists": [
+				"Nana Mizuki"
+			],
+			"year": 2005,
+			"month": 10,
+			"day": 19,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Beliver",
+			"url": "https://www.youtube.com/watch?v=W0DM5lcj6mw",
+			"weight": 3,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2017,
+			"month": 2,
+			"day": 1,
+			"albums": [
+				"Evolve"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock"
+			]
+		},
+		{
+			"name": "Whatever it Takes",
+			"url": "https://www.youtube.com/watch?v=M66U_DuMCS8",
+			"weight": 3,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2017,
+			"month": 5,
+			"day": 9,
+			"albums": [
+				"Evolve"
+			],
+			"language": "en",
+			"genres": [
+				"r&b",
+				"rock"
+			]
+		},
+		{
 			"name": "Hikariful",
 			"url": "https://www.youtube.com/watch?v=fjj5WbtenTM",
 			"weight": 1,
@@ -1186,7 +1254,7 @@
 		{
 			"name": "Noi!",
 			"url": "https://www.youtube.com/watch?v=7YwH3yYIkJ4",
-			"weight": 2,
+			"weight": 3,
 			"artists": [
 				"Yuki Kajiura"
 			],
@@ -1231,7 +1299,7 @@
 		{
 			"name": "Mebius Ash",
 			"url": "https://www.youtube.com/watch?v=j5KrYVLkJxM",
-			"weight": 2,
+			"weight": 3,
 			"artists": [
 				"Chiwa Saito"
 			],
@@ -1515,6 +1583,67 @@
 			"month": 1,
 			"day": 26,
 			"language": "ja"
+		},
+		{
+			"name": "Credens Justitiam",
+			"url": "https://www.youtube.com/watch?v=A_J3UhPK-Zo",
+			"weight": 3,
+			"artists": [
+				"Yuki Kajiura"
+			],
+			"year": 2013,
+			"month": 12,
+			"day": 25
+		},
+		{
+			"name": "Spiritual Garden",
+			"url": "https://www.youtube.com/watch?v=Fwnppk4IuDc",
+			"weight": 3,
+			"artists": [
+				"Tamura Yukari"
+			],
+			"year": 2005,
+			"month": 10,
+			"day": 26,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Hello",
+			"url": "https://www.youtube.com/watch?v=WmH4iWoJfTo",
+			"weight": 3,
+			"artists": [
+				"Martin Solveig",
+				"Dragonette"
+			],
+			"year": 2010,
+			"month": 9,
+			"day": 6,
+			"albums": [
+				"Smash"
+			],
+			"language": "en",
+			"genres": [
+				"electro",
+				"rock"
+			]
+		},
+		{
+			"name": "Ano Mori de Matteru",
+			"url": "https://www.youtube.com/watch?v=VGyc1iqgfE8",
+			"weight": 3,
+			"artists": [
+				"bonjour suzuki"
+			],
+			"year": 2015,
+			"month": 2,
+			"day": 25,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
 		}
 	]
 }
