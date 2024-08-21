@@ -1188,9 +1188,104 @@
 			]
 		},
 		{
+			"name": "Champagne Problems",
+			"url": "https://www.youtube.com/watch?v=wMpqCRF7TKg",
+			"weight": 3,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2020,
+			"month": 12,
+			"day": 11,
+			"albums": [
+				"Evermore"
+			],
+			"language": "en",
+			"genres": [
+				"folk",
+				"pop"
+			]
+		},
+		{
+			"name": "long story short",
+			"url": "https://www.youtube.com/watch?v=rqQHa2HcGtM",
+			"weight": 3,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2020,
+			"month": 12,
+			"day": 11,
+			"albums": [
+				"Evermore"
+			],
+			"language": "en",
+			"genres": [
+				"folk",
+				"pop",
+				"electro"
+			]
+		},
+		{
+			"name": "Right Where You Left Me",
+			"url": "https://www.youtube.com/watch?v=Ur_wAcYDnuA",
+			"weight": 3,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2020,
+			"month": 12,
+			"day": 11,
+			"albums": [
+				"Evermore"
+			],
+			"language": "en",
+			"genres": [
+				"folk",
+				"pop",
+				"country"
+			]
+		},
+		{
+			"name": "Miss Americana & The Heartbreak Prince",
+			"url": "https://www.youtube.com/watch?v=Kwf7P2GNAVw",
+			"weight": 3,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2019,
+			"month": 8,
+			"day": 23,
+			"albums": [
+				"Lover"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Paper Rings",
+			"url": "https://www.youtube.com/watch?v=8zdg-pDF10g",
+			"weight": 3,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2019,
+			"month": 8,
+			"day": 23,
+			"albums": [
+				"Lover"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
 			"name": "Hikariful",
 			"url": "https://www.youtube.com/watch?v=fjj5WbtenTM",
-			"weight": 1,
+			"weight": 2,
 			"artists": [
 				"Kalafina"
 			],
@@ -1638,8 +1733,40 @@
 				"bonjour suzuki"
 			],
 			"year": 2015,
-			"month": 2,
-			"day": 25,
+			"month": 1,
+			"day": 5,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Territory",
+			"url": "https://www.youtube.com/watch?v=ncwGR251JB4",
+			"weight": 3,
+			"artists": [
+				"Miho Arakawa",
+				"Yoshiko Ikuta",
+				"Nozomi Yamane"
+			],
+			"year": 2015,
+			"month": 1,
+			"day": 5,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Ambiguous",
+			"url": "https://www.youtube.com/watch?v=K42ED-7PWAo",
+			"weight": 3,
+			"artists": [
+				"GARNiDELiA"
+			],
+			"year": 2014,
+			"month": 1,
+			"day": 30,
 			"language": "ja",
 			"genres": [
 				"pop"
