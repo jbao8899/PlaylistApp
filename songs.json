@@ -3,7 +3,7 @@
 		{
 			"name": "I Kissed a Girl",
 			"url": "https://www.youtube.com/watch?v=tAp9BKosZXs",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Katy Perry"
 			],
@@ -21,7 +21,7 @@
 		{
 			"name": "Havana",
 			"url": "https://www.youtube.com/watch?v=HCjNJDNzw8Y",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Camila Cabello",
 				"Young Thug"
@@ -40,7 +40,7 @@
 		{
 			"name": "Firework",
 			"url": "https://www.youtube.com/watch?v=QGJuMBdaqIw",
-			"weight": 2,
+			"weight": 1,
 			"artists": [
 				"Katy Perry"
 			],
@@ -58,7 +58,7 @@
 		{
 			"name": "Madre Tierra (Oye)",
 			"url": "https://www.youtube.com/watch?v=VkuRIZ7QyDM",
-			"weight": 2,
+			"weight": 1,
 			"artists": [
 				"Chayanne"
 			],
@@ -76,7 +76,7 @@
 		{
 			"name": "You Belong With Me",
 			"url": "https://www.youtube.com/watch?v=VuNIsY6JdUw",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -95,7 +95,7 @@
 		{
 			"name": "Just The Way You Are",
 			"url": "https://www.youtube.com/watch?v=LjhCEhWiKXk",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Bruno Mars"
 			],
@@ -113,7 +113,7 @@
 		{
 			"name": "Burning House",
 			"url": "https://www.youtube.com/watch?v=uyGSe76rAJc",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Cam"
 			],
@@ -131,7 +131,7 @@
 		{
 			"name": "小苹果",
 			"url": "https://www.youtube.com/watch?v=23-6WVTINZw",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Chopstick Brothers"
 			],
@@ -146,7 +146,7 @@
 		{
 			"name": "Ese Camino",
 			"url": "https://www.youtube.com/watch?v=jKvmNUfmFfI",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Julieta Venegas"
 			],
@@ -165,7 +165,7 @@
 		{
 			"name": "La Cintura",
 			"url": "https://www.youtube.com/watch?v=Eg4LUvUjUWI",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Alvaro Soler"
 			],
@@ -183,7 +183,7 @@
 		{
 			"name": "El Mismo Sol",
 			"url": "https://www.youtube.com/watch?v=aNHwNreDp3A",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Alvaro Soler"
 			],
@@ -201,7 +201,7 @@
 		{
 			"name": "Sofia",
 			"url": "https://www.youtube.com/watch?v=aNHwNreDp3A",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Alvaro Soler"
 			],
@@ -234,7 +234,7 @@
 		{
 			"name": "I'm Comin' Over",
 			"url": "https://www.youtube.com/watch?v=uyGSe76rAJc",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Chris Young"
 			],
@@ -252,7 +252,7 @@
 		{
 			"name": "Me Voy",
 			"url": "https://www.youtube.com/watch?v=y8rBC6GCUjg",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Julieta Venegas"
 			],
@@ -291,7 +291,7 @@
 		{
 			"name": "Call Me Maybe",
 			"url": "https://www.youtube.com/watch?v=fWNaR-rxAic",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Carly Rae Jepsen"
 			],
@@ -310,7 +310,7 @@
 		{
 			"name": "Dynamite",
 			"url": "https://www.youtube.com/watch?v=Vysgv7qVYTo",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Taio Cruz"
 			],
@@ -329,7 +329,7 @@
 		{
 			"name": "Lovefool",
 			"url": "https://www.youtube.com/watch?v=NI6aOFI7hms",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"The Cardigans"
 			],
@@ -347,7 +347,7 @@
 		{
 			"name": "Rolling in the Deep",
 			"url": "https://www.youtube.com/watch?v=rYEDA3JcQqw",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Adele"
 			],
@@ -365,7 +365,7 @@
 		{
 			"name": "Party In The U.S.A.",
 			"url": "https://www.youtube.com/watch?v=M11SvDtPBhA",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Miley Cyrus"
 			],
@@ -383,7 +383,7 @@
 		{
 			"name": "Shake It Off",
 			"url": "https://www.youtube.com/watch?v=nfWlot6h_JM",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -401,7 +401,7 @@
 		{
 			"name": "We Are Never Ever Getting Back Together",
 			"url": "https://www.youtube.com/watch?v=WA4iX5D9Z64",
-			"weight": 2,
+			"weight": 1,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -419,7 +419,7 @@
 		{
 			"name": "Blank Space",
 			"url": "https://www.youtube.com/watch?v=e-ORhEE9VVg",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -437,7 +437,7 @@
 		{
 			"name": "This Kiss",
 			"url": "https://www.youtube.com/watch?v=Vf78alvpxRM",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Carly Rae Jepsen"
 			],
@@ -455,7 +455,7 @@
 		{
 			"name": "Bien o Mal",
 			"url": "https://www.youtube.com/watch?v=KTr9HMnAWNE",
-			"weight": 2,
+			"weight": 1,
 			"artists": [
 				"Julieta Venegas"
 			],
@@ -473,7 +473,7 @@
 		{
 			"name": "Teenage Dream",
 			"url": "https://www.youtube.com/watch?v=98WtmW-lfeE",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Katy Perry"
 			],
@@ -491,7 +491,7 @@
 		{
 			"name": "Look What You Made Me Do",
 			"url": "https://www.youtube.com/watch?v=3tmd-ClpJxA",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -509,7 +509,7 @@
 		{
 			"name": "Lento",
 			"url": "https://www.youtube.com/watch?v=CuTx1QwLPjM",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Julieta Venegas"
 			],
@@ -527,7 +527,7 @@
 		{
 			"name": "Gorgeous",
 			"url": "https://www.youtube.com/watch?v=EUoe7cf0HYw",
-			"weight": 2,
+			"weight": 1,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -545,7 +545,7 @@
 		{
 			"name": "Solo Dime Tu",
 			"url": "https://www.youtube.com/watch?v=vhE1B-WRd0o",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Tini"
 			],
@@ -563,7 +563,7 @@
 		{
 			"name": "Siempre Brillaras",
 			"url": "https://www.youtube.com/watch?v=O6RimxEkDPM",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Tini"
 			],
@@ -581,7 +581,7 @@
 		{
 			"name": "The Way",
 			"url": "https://www.youtube.com/watch?v=_sV0S8qWSy0",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Ariana Grande",
 				"Mac Miller"
@@ -601,7 +601,7 @@
 		{
 			"name": "Ours",
 			"url": "https://www.youtube.com/watch?v=LZ34LlaIk88",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -620,7 +620,7 @@
 		{
 			"name": "Grenade",
 			"url": "https://www.youtube.com/watch?v=SR6iYWJxHqs",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Bruno Mars"
 			],
@@ -638,7 +638,7 @@
 		{
 			"name": "Celeste",
 			"url": "https://www.youtube.com/watch?v=BDip6DYnNVQ",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Ezra Vine"
 			],
@@ -656,7 +656,7 @@
 		{
 			"name": "The One That Got Away",
 			"url": "https://www.youtube.com/watch?v=Ahha3Cqe_fk",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Katy Perry"
 			],
@@ -674,7 +674,7 @@
 		{
 			"name": "If I Die Young",
 			"url": "https://www.youtube.com/watch?v=7NJqUN9TClM",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"The Band Perry"
 			],
@@ -692,7 +692,7 @@
 		{
 			"name": "Mine",
 			"url": "https://www.youtube.com/watch?v=XPBwXKgDTdE",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -711,7 +711,7 @@
 		{
 			"name": "Play It Again",
 			"url": "https://www.youtube.com/watch?v=ALV-QtDFpSw",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Luke Bryan"
 			],
@@ -730,7 +730,7 @@
 		{
 			"name": "Chainsaw",
 			"url": "https://www.youtube.com/watch?v=L7ULNxbDDdY",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"The Band Perry"
 			],
@@ -748,7 +748,7 @@
 		{
 			"name": "Done",
 			"url": "https://www.youtube.com/watch?v=4emYaDbaJ8w",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"The Band Perry"
 			],
@@ -766,7 +766,7 @@
 		{
 			"name": "Better Dig Two",
 			"url": "https://www.youtube.com/watch?v=ZIdCo_QAz_E",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"The Band Perry"
 			],
@@ -784,7 +784,7 @@
 		{
 			"name": "Red",
 			"url": "https://www.youtube.com/watch?v=Zlot0i3Zykw",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -803,7 +803,7 @@
 		{
 			"name": "Sirius",
 			"url": "https://www.youtube.com/watch?v=HNJ4Hjftstg",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Aoi Eir"
 			],
@@ -819,7 +819,7 @@
 		{
 			"name": "The Middle",
 			"url": "https://www.youtube.com/watch?v=Lj6Y6JCu-l4",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Zedd",
 				"Maren Morris",
@@ -836,7 +836,7 @@
 		{
 			"name": "Roar",
 			"url": "https://youtube.com/watch?v=CevxZvSJLk8",
-			"weight": 2,
+			"weight": 1,
 			"artists": [
 				"Katy Perry"
 			],
@@ -854,7 +854,7 @@
 		{
 			"name": "Magia",
 			"url": "https://www.youtube.com/watch?v=QwquipMpsiQ",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Kalafina"
 			],
@@ -870,7 +870,7 @@
 		{
 			"name": "Platinum Disco",
 			"url": "https://www.youtube.com/watch?v=14FOPsSCIPs",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Yuka Iguchi"
 			],
@@ -885,7 +885,7 @@
 		{
 			"name": "oath sign",
 			"url": "https://www.youtube.com/watch?v=GJ4yehnerHQ",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"LiSA"
 			],
@@ -900,7 +900,7 @@
 		{
 			"name": "Ai wo Utae",
 			"url": "https://www.youtube.com/watch?v=ePuy539e7lk",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Luna Haruna"
 			],
@@ -915,7 +915,7 @@
 		{
 			"name": "chocolate insomnia",
 			"url": "https://www.youtube.com/watch?v=-x4MvRuF9TI",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Yui Horie"
 			],
@@ -930,7 +930,7 @@
 		{
 			"name": "Paradisus-Paradoxum",
 			"url": "https://www.youtube.com/watch?v=K5bm_ER9CKw",
-			"weight": 2,
+			"weight": 1,
 			"artists": [
 				"MYTH & ROID"
 			],
@@ -945,7 +945,7 @@
 		{
 			"name": "Stay Alive",
 			"url": "https://www.youtube.com/watch?v=z-NuxWkYtlI",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Rie Takahashi"
 			],
@@ -960,7 +960,7 @@
 		{
 			"name": "Realize",
 			"url": "https://www.youtube.com/watch?v=AwHapidVQlI",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Suzuki Konomi"
 			],
@@ -975,7 +975,7 @@
 		{
 			"name": "Memento",
 			"url": "https://www.youtube.com/watch?v=CXcEbr1ixEc",
-			"weight": 2,
+			"weight": 1,
 			"artists": [
 				"nonoc"
 			],
@@ -990,7 +990,7 @@
 		{
 			"name": "Believe in you",
 			"url": "https://www.youtube.com/watch?v=ZahXTDLFS6E",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"nonoc"
 			],
@@ -1005,7 +1005,7 @@
 		{
 			"name": "Blumenkranz",
 			"url": "https://www.youtube.com/watch?v=-0btRCbrZRQ",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Cyua"
 			],
@@ -1017,7 +1017,7 @@
 		{
 			"name": "willow",
 			"url": "https://www.youtube.com/watch?v=RsEZmictANA",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -1035,7 +1035,7 @@
 		{
 			"name": "ME!",
 			"url": "https://www.youtube.com/watch?v=FuXNumBwDOM",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Taylor Swift",
 				"Brendon Urie",
@@ -1055,7 +1055,7 @@
 		{
 			"name": "Wildest Dreams",
 			"url": "https://www.youtube.com/watch?v=IdneKLhsWOQ",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -1073,7 +1073,7 @@
 		{
 			"name": "Love Story",
 			"url": "https://www.youtube.com/watch?v=8xg3vE8Ie_E",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -1092,7 +1092,7 @@
 		{
 			"name": "Mata Ashita",
 			"url": "https://www.youtube.com/watch?v=62YJaw3wXe8",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Aoi Yuki"
 			],
@@ -1107,7 +1107,7 @@
 		{
 			"name": "Sis Puella Magica!",
 			"url": "https://www.youtube.com/watch?v=bzlHPlq8hIs",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Yuki Kajiura"
 			],
@@ -1122,7 +1122,7 @@
 		{
 			"name": "Innocent Starter",
 			"url": "https://www.youtube.com/watch?v=6nMiFspQ6bc",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Nana Mizuki"
 			],
@@ -1137,7 +1137,7 @@
 		{
 			"name": "Eternal Blaze",
 			"url": "https://www.youtube.com/watch?v=cZFPVAOrdXQ",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Nana Mizuki"
 			],
@@ -1152,7 +1152,7 @@
 		{
 			"name": "Beliver",
 			"url": "https://www.youtube.com/watch?v=W0DM5lcj6mw",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Imagine Dragons"
 			],
@@ -1171,7 +1171,7 @@
 		{
 			"name": "Whatever it Takes",
 			"url": "https://www.youtube.com/watch?v=M66U_DuMCS8",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Imagine Dragons"
 			],
@@ -1190,7 +1190,7 @@
 		{
 			"name": "Champagne Problems",
 			"url": "https://www.youtube.com/watch?v=wMpqCRF7TKg",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -1209,7 +1209,7 @@
 		{
 			"name": "long story short",
 			"url": "https://www.youtube.com/watch?v=rqQHa2HcGtM",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -1229,7 +1229,7 @@
 		{
 			"name": "Right Where You Left Me",
 			"url": "https://www.youtube.com/watch?v=Ur_wAcYDnuA",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -1249,7 +1249,7 @@
 		{
 			"name": "Miss Americana & The Heartbreak Prince",
 			"url": "https://www.youtube.com/watch?v=Kwf7P2GNAVw",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -1267,7 +1267,7 @@
 		{
 			"name": "Paper Rings",
 			"url": "https://www.youtube.com/watch?v=8zdg-pDF10g",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -1283,9 +1283,174 @@
 			]
 		},
 		{
+			"name": "Afterglow",
+			"url": "https://www.youtube.com/watch?v=8HxbqAsppwU",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2019,
+			"month": 8,
+			"day": 23,
+			"albums": [
+				"Lover"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "It’s Nice To Have A Friend",
+			"url": "https://www.youtube.com/watch?v=eaP1VswBF28",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2019,
+			"month": 8,
+			"day": 23,
+			"albums": [
+				"Lover"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Daylight",
+			"url": "https://www.youtube.com/watch?v=u9raS7-NisU",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2019,
+			"month": 8,
+			"day": 23,
+			"albums": [
+				"Lover"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Style",
+			"url": "https://www.youtube.com/watch?v=giPa88XuMus",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2014,
+			"month": 10,
+			"day": 27,
+			"albums": [
+				"1989"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Don't Blame Me",
+			"url": "https://www.youtube.com/watch?v=kRJKB291Z1g",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2017,
+			"month": 11,
+			"day": 10,
+			"albums": [
+				"Reputation"
+			],
+			"language": "en",
+			"genres": [
+				"electro",
+				"gospel",
+				"pop"
+			]
+		},
+		{
+			"name": "Getaway Car",
+			"url": "https://www.youtube.com/watch?v=FhPLQVlUiNQ",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2017,
+			"month": 11,
+			"day": 10,
+			"albums": [
+				"Reputation"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Call It What You Want",
+			"url": "https://www.youtube.com/watch?v=V54CEElTF_U",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2017,
+			"month": 11,
+			"day": 3,
+			"albums": [
+				"Reputation"
+			],
+			"language": "en",
+			"genres": [
+				"electro",
+				"pop"
+			]
+		},
+		{
+			"name": "Wonderland",
+			"url": "https://www.youtube.com/watch?v=Oq4nEzEiegA",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2014,
+			"month": 10,
+			"day": 27,
+			"albums": [
+				"1989"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "New Romantics",
+			"url": "https://www.youtube.com/watch?v=yLFYiN-JOJU",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2014,
+			"month": 10,
+			"day": 27,
+			"albums": [
+				"1989"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
 			"name": "Hikariful",
 			"url": "https://www.youtube.com/watch?v=fjj5WbtenTM",
-			"weight": 2,
+			"weight": 1,
 			"artists": [
 				"Kalafina"
 			],
@@ -1300,7 +1465,7 @@
 		{
 			"name": "Kimino Ginno Niwa",
 			"url": "https://www.youtube.com/watch?v=XkSjf0ah-O4",
-			"weight": 2,
+			"weight": 1,
 			"artists": [
 				"Kalafina"
 			],
@@ -1315,7 +1480,7 @@
 		{
 			"name": "Mirai",
 			"url": "https://www.youtube.com/watch?v=bAZuZjMD7lE",
-			"weight": 2,
+			"weight": 1,
 			"artists": [
 				"Kalafina"
 			],
@@ -1334,7 +1499,7 @@
 		{
 			"name": "Mada Dameyo",
 			"url": "https://www.youtube.com/watch?v=u_BXFfQhSDk",
-			"weight": 2,
+			"weight": 1,
 			"artists": [
 				"Yuki Kajiura"
 			],
@@ -1349,7 +1514,7 @@
 		{
 			"name": "Noi!",
 			"url": "https://www.youtube.com/watch?v=7YwH3yYIkJ4",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Yuki Kajiura"
 			],
@@ -1364,7 +1529,7 @@
 		{
 			"name": "Misterioso",
 			"url": "https://www.youtube.com/watch?v=7tNK3BGbd1k",
-			"weight": 2,
+			"weight": 1,
 			"artists": [
 				"Kalafina"
 			],
@@ -1379,7 +1544,7 @@
 		{
 			"name": "Akogaresaita",
 			"url": "https://www.youtube.com/watch?v=xlbWL06n4MM",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Aoi Yuki"
 			],
@@ -1394,7 +1559,7 @@
 		{
 			"name": "Mebius Ash",
 			"url": "https://www.youtube.com/watch?v=j5KrYVLkJxM",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Chiwa Saito"
 			],
@@ -1425,7 +1590,7 @@
 		{
 			"name": "Naturally",
 			"url": "https://www.youtube.com/watch?v=pFgAdrGjflU",
-			"weight": 2,
+			"weight": 1,
 			"artists": [
 				"Aoi Yuki",
 				"Eri Kitamura"
@@ -1441,7 +1606,7 @@
 		{
 			"name": "And I'm Home",
 			"url": "https://www.youtube.com/watch?v=GIlMPJNk-pU",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Eri Kitamura",
 				"Ai Nonaka"
@@ -1457,7 +1622,7 @@
 		{
 			"name": "Stairs",
 			"url": "https://www.youtube.com/watch?v=qR2KeUJqSN4",
-			"weight": 2,
+			"weight": 1,
 			"artists": [
 				"Kaori Mizuhashi",
 				"Ai Nonaka"
@@ -1473,7 +1638,7 @@
 		{
 			"name": "final phase",
 			"url": "https://www.youtube.com/watch?v=gQ91NaeO2To",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"fripSide"
 			],
@@ -1488,7 +1653,7 @@
 		{
 			"name": "She is a Witch",
 			"url": "https://www.youtube.com/watch?v=QPFYnrDssSQ",
-			"weight": 2,
+			"weight": 1,
 			"artists": [
 				"Yuki Kajiura"
 			],
@@ -1499,7 +1664,7 @@
 		{
 			"name": "LEVEL5-judgelight-",
 			"url": "https://www.youtube.com/watch?v=W4YbIxlfw8k",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"fripSide"
 			],
@@ -1550,7 +1715,7 @@
 		{
 			"name": "Happy Bite",
 			"url": "https://www.youtube.com/watch?v=-EvSLS1QIYY",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Emiri Kato"
 			],
@@ -1565,7 +1730,7 @@
 		{
 			"name": "Lavender Haze",
 			"url": "https://www.youtube.com/watch?v=h8DLofLM7No",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Taylor Swift"
 			],
@@ -1583,7 +1748,7 @@
 		{
 			"name": "only my railgun",
 			"url": "https://www.youtube.com/watch?v=ZhIxg6_Femo",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"fripSide"
 			],
@@ -1598,7 +1763,7 @@
 		{
 			"name": "Absolute Configuration",
 			"url": "https://www.youtube.com/watch?v=b1xyLNp24s8",
-			"weight": 2,
+			"weight": 1,
 			"artists": [
 				"Yuki Kajiura"
 			],
@@ -1610,7 +1775,7 @@
 		{
 			"name": "Naisho no Hanashi",
 			"url": "https://www.youtube.com/watch?v=qcIqeq83tO0",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"ClariS"
 			],
@@ -1625,7 +1790,7 @@
 		{
 			"name": "Kimino Shiranai Monogatari",
 			"url": "https://www.youtube.com/watch?v=eLPs_w-FepA",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Supercell"
 			],
@@ -1640,7 +1805,7 @@
 		{
 			"name": "Wonder Stella",
 			"url": "https://www.youtube.com/watch?v=rHpzTO_P9xw",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"fhana"
 			],
@@ -1655,7 +1820,7 @@
 		{
 			"name": "Oblivious",
 			"url": "https://www.youtube.com/watch?v=UI8Iy7kmRxo",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Kalafina"
 			],
@@ -1670,7 +1835,7 @@
 		{
 			"name": "Sudachi no Uta",
 			"url": "https://www.youtube.com/watch?v=ckXtZrTzJbM",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Anemoneria"
 			],
@@ -1682,7 +1847,7 @@
 		{
 			"name": "Credens Justitiam",
 			"url": "https://www.youtube.com/watch?v=A_J3UhPK-Zo",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Yuki Kajiura"
 			],
@@ -1693,7 +1858,7 @@
 		{
 			"name": "Spiritual Garden",
 			"url": "https://www.youtube.com/watch?v=Fwnppk4IuDc",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Tamura Yukari"
 			],
@@ -1708,7 +1873,7 @@
 		{
 			"name": "Hello",
 			"url": "https://www.youtube.com/watch?v=WmH4iWoJfTo",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Martin Solveig",
 				"Dragonette"
@@ -1728,7 +1893,7 @@
 		{
 			"name": "Ano Mori de Matteru",
 			"url": "https://www.youtube.com/watch?v=VGyc1iqgfE8",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"bonjour suzuki"
 			],
@@ -1743,7 +1908,7 @@
 		{
 			"name": "Territory",
 			"url": "https://www.youtube.com/watch?v=ncwGR251JB4",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"Miho Arakawa",
 				"Yoshiko Ikuta",
@@ -1760,7 +1925,7 @@
 		{
 			"name": "Ambiguous",
 			"url": "https://www.youtube.com/watch?v=K42ED-7PWAo",
-			"weight": 3,
+			"weight": 2,
 			"artists": [
 				"GARNiDELiA"
 			],
