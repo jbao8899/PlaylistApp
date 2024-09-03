@@ -1448,6 +1448,82 @@
 			]
 		},
 		{
+			"name": "22",
+			"url": "https://www.youtube.com/watch?v=9boiT64sm0Q",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2012,
+			"month": 10,
+			"day": 22,
+			"albums": [
+				"Red"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Sad Beautiful Tragic",
+			"url": "https://www.youtube.com/watch?v=jQfB4Gahi3I",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2012,
+			"month": 10,
+			"day": 22,
+			"albums": [
+				"Red"
+			],
+			"language": "en",
+			"genres": [
+				"folk",
+				"pop"
+			]
+		},
+		{
+			"name": "Come Back...Be Here",
+			"url": "https://www.youtube.com/watch?v=hHWOAUjnmjQ",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2012,
+			"month": 10,
+			"day": 22,
+			"albums": [
+				"Red"
+			],
+			"language": "en",
+			"genres": [
+				"country",
+				"pop"
+			]
+		},
+		{
+			"name": "Girl At Home",
+			"url": "https://www.youtube.com/watch?v=UNckfN9upqo",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2012,
+			"month": 10,
+			"day": 22,
+			"albums": [
+				"Red"
+			],
+			"language": "en",
+			"genres": [
+				"country",
+				"electro",
+				"pop"
+			]
+		},
+		{
 			"name": "Hikariful",
 			"url": "https://www.youtube.com/watch?v=fjj5WbtenTM",
 			"weight": 1,
