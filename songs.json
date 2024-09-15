@@ -1524,6 +1524,246 @@
 			]
 		},
 		{
+			"name": "Forever Winter",
+			"url": "https://www.youtube.com/watch?v=TkAomsYFsJw",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2021,
+			"month": 11,
+			"day": 12,
+			"albums": [
+				"Red"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "The Very First Night",
+			"url": "https://www.youtube.com/watch?v=rVuyi-dPMIc",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2021,
+			"month": 11,
+			"day": 12,
+			"albums": [
+				"Red"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"country"
+			]
+		},
+		{
+			"name": "The Story Of Us",
+			"url": "https://www.youtube.com/watch?v=0OsRXc0R4Bo",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2010,
+			"month": 10,
+			"day": 25,
+			"albums": [
+				"Speak Now"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Enchanted",
+			"url": "https://www.youtube.com/watch?v=Rs_1nw6OXgE",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2010,
+			"month": 10,
+			"day": 25,
+			"albums": [
+				"Speak Now"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Better Than Revenge",
+			"url": "https://www.youtube.com/watch?v=E7OE-skxgpE",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2010,
+			"month": 10,
+			"day": 25,
+			"albums": [
+				"Speak Now"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "If This Was A Movie",
+			"url": "https://www.youtube.com/watch?v=usn8R-v9Wwk",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2010,
+			"month": 10,
+			"day": 25,
+			"albums": [
+				"Speak Now"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Hey Stephen",
+			"url": "https://www.youtube.com/watch?v=m_LZQbYl0WY",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2008,
+			"month": 11,
+			"day": 11,
+			"albums": [
+				"Fearless"
+			],
+			"language": "en",
+			"genres": [
+				"country",
+				"pop"
+			]
+		},
+		{
+			"name": "Mr. Perfectly Fine",
+			"url": "https://www.youtube.com/watch?v=4Z2XamJx35M",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2021,
+			"month": 4,
+			"day": 7,
+			"albums": [
+				"Fearless"
+			],
+			"language": "en",
+			"genres": [
+				"country",
+				"pop"
+			]
+		},
+		{
+			"name": "Teardrops On My Guitar",
+			"url": "https://www.youtube.com/watch?v=JfffZEEdpbc",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2006,
+			"month": 10,
+			"day": 24,
+			"albums": [
+				"Taylor Swift"
+			],
+			"language": "en",
+			"genres": [
+				"country",
+				"pop"
+			]
+		},
+		{
+			"name": "Our Song",
+			"url": "https://www.youtube.com/watch?v=Jb2stN7kH28",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2006,
+			"month": 10,
+			"day": 24,
+			"albums": [
+				"Taylor Swift"
+			],
+			"language": "en",
+			"genres": [
+				"country"
+			]
+		},
+		{
+			"name": "Piano",
+			"url": "https://www.youtube.com/watch?v=hd1D61037c8",
+			"weight": 2,
+			"artists": [
+				"Ariana Grande"
+			],
+			"year": 2013,
+			"month": 8,
+			"day": 30,
+			"albums": [
+				"Yours Truly"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "You'll Never Know",
+			"url": "https://www.youtube.com/watch?v=nmcdLOjGVzw",
+			"weight": 2,
+			"artists": [
+				"Ariana Grande"
+			],
+			"year": 2013,
+			"month": 8,
+			"day": 30,
+			"albums": [
+				"Yours Truly"
+			],
+			"language": "en",
+			"genres": [
+				"R&B"
+			]
+		},
+		{
+			"name": "Popular Song",
+			"url": "",
+			"weight": 2,
+			"artists": [
+				"Ariana Grande",
+				"Mika"
+			],
+			"year": 2013,
+			"month": 1,
+			"day": 8,
+			"albums": [
+				"Yours Truly",
+				"The Origin of Love"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
 			"name": "Hikariful",
 			"url": "https://www.youtube.com/watch?v=fjj5WbtenTM",
 			"weight": 1,
@@ -2011,6 +2251,25 @@
 			"language": "ja",
 			"genres": [
 				"pop"
+			]
+		},
+		{
+			"name": "Too Close",
+			"url": "https://www.youtube.com/watch?v=iEyR_MMPlSk",
+			"weight": 2,
+			"artists": [
+				"Ariana Grande"
+			],
+			"year": 2014,
+			"month": 8,
+			"day": 22,
+			"albums": [
+				"My Everything"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"R&B"
 			]
 		}
 	]
