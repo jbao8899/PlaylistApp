@@ -1223,7 +1223,7 @@
 			"genres": [
 				"folk",
 				"pop",
-				"electro"
+				"EDM"
 			]
 		},
 		{
@@ -1369,7 +1369,7 @@
 			],
 			"language": "en",
 			"genres": [
-				"electro",
+				"EDM",
 				"gospel",
 				"pop"
 			]
@@ -1407,7 +1407,7 @@
 			],
 			"language": "en",
 			"genres": [
-				"electro",
+				"EDM",
 				"pop"
 			]
 		},
@@ -1519,7 +1519,7 @@
 			"language": "en",
 			"genres": [
 				"country",
-				"electro",
+				"EDM",
 				"pop"
 			]
 		},
@@ -1727,7 +1727,7 @@
 		},
 		{
 			"name": "You'll Never Know",
-			"url": "https://www.youtube.com/watch?v=nmcdLOjGVzw",
+			"url": "https://www.youtube.com/watch?v=VyhQZLZpCEQ",
 			"weight": 2,
 			"artists": [
 				"Ariana Grande"
@@ -1745,7 +1745,7 @@
 		},
 		{
 			"name": "Popular Song",
-			"url": "",
+			"url": "https://www.youtube.com/watch?v=nmcdLOjGVzw",
 			"weight": 2,
 			"artists": [
 				"Ariana Grande",
@@ -1761,6 +1761,83 @@
 			"language": "en",
 			"genres": [
 				"pop"
+			]
+		},
+		{
+			"name": "bloodline",
+			"url": "https://www.youtube.com/watch?v=uKqRAC-JNOM",
+			"weight": 2,
+			"artists": [
+				"Ariana Grande"
+			],
+			"year": 2019,
+			"month": 2,
+			"day": 8,
+			"albums": [
+				"Thank U, Next"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"R&B",
+				"EDM"
+			]
+		},
+		{
+			"name": "love language",
+			"url": "https://www.youtube.com/watch?v=Yn-x3XEDhig",
+			"weight": 2,
+			"artists": [
+				"Ariana Grande"
+			],
+			"year": 2020,
+			"month": 10,
+			"day": 30,
+			"albums": [
+				"Positions"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"R&B",
+				"jazz"
+			]
+		},
+		{
+			"name": "positions",
+			"url": "https://www.youtube.com/watch?v=xuOOAQoDKN0",
+			"weight": 2,
+			"artists": [
+				"Ariana Grande"
+			],
+			"year": 2020,
+			"month": 10,
+			"day": 23,
+			"albums": [
+				"Positions"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"R&B"
+			]
+		},
+		{
+			"name": "Deep Silent Complete",
+			"url": "https://www.youtube.com/watch?v=Po5oWa7OX2k",
+			"weight": 2,
+			"artists": [
+				"Nightwish"
+			],
+			"year": 2000,
+			"month": 5,
+			"day": 8,
+			"albums": [
+				"Wishmaster"
+			],
+			"language": "en",
+			"genres": [
+				"rock"
 			]
 		},
 		{
@@ -2202,7 +2279,7 @@
 			],
 			"language": "en",
 			"genres": [
-				"electro",
+				"EDM",
 				"rock"
 			]
 		},
@@ -2270,6 +2347,142 @@
 			"genres": [
 				"pop",
 				"R&B"
+			]
+		},
+		{
+			"name": "One Last Time",
+			"url": "https://www.youtube.com/watch?v=Wg92RrNhB8s",
+			"weight": 2,
+			"artists": [
+				"Ariana Grande"
+			],
+			"year": 2014,
+			"month": 8,
+			"day": 22,
+			"albums": [
+				"My Everything"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"EDM"
+			]
+		},
+		{
+			"name": "Why Try",
+			"url": "https://www.youtube.com/watch?v=G7BEVZ3uRCA",
+			"weight": 2,
+			"artists": [
+				"Ariana Grande"
+			],
+			"year": 2014,
+			"month": 8,
+			"day": 22,
+			"albums": [
+				"My Everything"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"R&B"
+			]
+		},
+		{
+			"name": "Break Free",
+			"url": "https://www.youtube.com/watch?v=2Ek3WMM7I-0",
+			"weight": 2,
+			"artists": [
+				"Ariana Grande",
+				"Zedd"
+			],
+			"year": 2014,
+			"month": 7,
+			"day": 2,
+			"albums": [
+				"My Everything"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"EDM"
+			]
+		},
+		{
+			"name": "Red Like Roses - Part II",
+			"url": "https://www.youtube.com/watch?v=rwfXsZ_5tHQ",
+			"weight": 2,
+			"artists": [
+				"Casey Lee Williams",
+				"Sandy Lee Casey",
+				"Jeff Williams"
+			],
+			"year": 2013,
+			"month": 9,
+			"day": 5,
+			"albums": [
+				"RWBY: Volume 1 Soundtrack",
+				"RWBY: Best Vocal Album"
+			],
+			"language": "en",
+			"genres": [
+				"rock"
+			]
+		},
+		{
+			"name": "Competition",
+			"url": "https://www.youtube.com/watch?v=60Lmgb8Am5s",
+			"weight": 2,
+			"artists": [
+				"Dragonette"
+			],
+			"year": 2007,
+			"month": 8,
+			"day": 6,
+			"albums": [
+				"Galore"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "I Get Around",
+			"url": "https://www.youtube.com/watch?v=wQwJOVOtZpY",
+			"weight": 2,
+			"artists": [
+				"Dragonette"
+			],
+			"year": 2007,
+			"month": 4,
+			"day": 30,
+			"albums": [
+				"Galore"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Take It Like a Man",
+			"url": "https://www.youtube.com/watch?v=5fU6vaRL8iI",
+			"weight": 2,
+			"artists": [
+				"Dragonette"
+			],
+			"year": 2007,
+			"month": 7,
+			"day": 23,
+			"albums": [
+				"Galore"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
 			]
 		}
 	]
