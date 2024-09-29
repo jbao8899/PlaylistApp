@@ -1841,6 +1841,79 @@
 			]
 		},
 		{
+			"name": "FLIP FLAP FLIP FLAP",
+			"url": "https://www.youtube.com/watch?v=Wb7cNEpBQPI",
+			"weight": 2,
+			"artists": [
+				"TO-MAS",
+				"Chima"
+			],
+			"year": 2016,
+			"month": 11,
+			"day": 9,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Gone Too Far",
+			"url": "https://www.youtube.com/watch?v=xjq490DDGG8",
+			"weight": 2,
+			"artists": [
+				"Dragonette"
+			],
+			"year": 2009,
+			"month": 9,
+			"day": 25,
+			"albums": [
+				"Fixin to Thrill"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Stupid Grin",
+			"url": "https://www.youtube.com/watch?v=HezsDqfAGn0",
+			"weight": 2,
+			"artists": [
+				"Dragonette"
+			],
+			"year": 2009,
+			"month": 9,
+			"day": 25,
+			"albums": [
+				"Fixin to Thrill"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Don't Be Funny",
+			"url": "https://www.youtube.com/watch?v=jo6wJ-56kbc",
+			"weight": 2,
+			"artists": [
+				"Dragonette"
+			],
+			"year": 2009,
+			"month": 9,
+			"day": 25,
+			"albums": [
+				"Fixin to Thrill"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
 			"name": "Hikariful",
 			"url": "https://www.youtube.com/watch?v=fjj5WbtenTM",
 			"weight": 1,
@@ -2478,6 +2551,158 @@
 			"day": 23,
 			"albums": [
 				"Galore"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Now or Never",
+			"url": "https://www.youtube.com/watch?v=wwFTg7oZ5_w",
+			"weight": 2,
+			"artists": [
+				"Corey Kent",
+				"Lauren Alaina"
+			],
+			"year": 2024,
+			"month": 9,
+			"day": 6,
+			"albums": [
+				"Black Bandana"
+			],
+			"language": "en",
+			"genres": [
+				"country"
+			]
+		},
+		{
+			"name": "Taste",
+			"url": "https://www.youtube.com/watch?v=z9Q9OzL_wI8",
+			"weight": 2,
+			"artists": [
+				"Sabrina Carpenter"
+			],
+			"year": 2024,
+			"month": 8,
+			"day": 23,
+			"albums": [
+				"Short n' Sweet"
+			],
+			"language": "en",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "True Believer",
+			"url": "https://www.youtube.com/watch?v=-s4jJGt71MM",
+			"weight": 2,
+			"artists": [
+				"Dragonette"
+			],
+			"year": 2007,
+			"month": 8,
+			"day": 6,
+			"albums": [
+				"Galore"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Another Day",
+			"url": "https://www.youtube.com/watch?v=lsjsoxJh-fU",
+			"weight": 2,
+			"artists": [
+				"Dragonette"
+			],
+			"year": 2007,
+			"month": 8,
+			"day": 6,
+			"albums": [
+				"Galore"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Black Limousine",
+			"url": "https://www.youtube.com/watch?v=k5J1gLGTpJ4",
+			"weight": 2,
+			"artists": [
+				"Dragonette"
+			],
+			"year": 2007,
+			"month": 8,
+			"day": 6,
+			"albums": [
+				"Galore"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Goldrush",
+			"url": "https://www.youtube.com/watch?v=g_zauHrdC98",
+			"weight": 2,
+			"artists": [
+				"Dragonette"
+			],
+			"year": 2007,
+			"month": 8,
+			"day": 6,
+			"albums": [
+				"Galore"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Marvellous",
+			"url": "https://www.youtube.com/watch?v=vJ-2BVtq-y8",
+			"weight": 2,
+			"artists": [
+				"Dragonette"
+			],
+			"year": 2007,
+			"month": 8,
+			"day": 6,
+			"albums": [
+				"Galore"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Okay Dolores",
+			"url": "https://www.youtube.com/watch?v=KRVB2RqsIX4",
+			"weight": 2,
+			"artists": [
+				"Dragonette",
+				"Tegan And Sara"
+			],
+			"year": 2009,
+			"month": 9,
+			"day": 25,
+			"albums": [
+				"Fixin to Thrill"
 			],
 			"language": "en",
 			"genres": [
