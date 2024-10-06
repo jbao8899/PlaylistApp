@@ -1914,6 +1914,288 @@
 			]
 		},
 		{
+			"name": "Let it Go",
+			"url": "https://www.youtube.com/watch?v=WSL93KO2gnk",
+			"weight": 2,
+			"artists": [
+				"Dragonette"
+			],
+			"year": 2012,
+			"month": 9,
+			"day": 22,
+			"albums": [
+				"Bodyparts"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Right Woman",
+			"url": "https://www.youtube.com/watch?v=YcrfqdxT2OY",
+			"weight": 2,
+			"artists": [
+				"Dragonette"
+			],
+			"year": 2012,
+			"month": 3,
+			"day": 5,
+			"albums": [
+				"Bodyparts"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Rocket Ship",
+			"url": "https://www.youtube.com/watch?v=HPT0dZDkpe8",
+			"weight": 2,
+			"artists": [
+				"Dragonette"
+			],
+			"year": 2012,
+			"month": 9,
+			"day": 22,
+			"albums": [
+				"Bodyparts"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Let the Night Fall",
+			"url": "https://www.youtube.com/watch?v=zcpOPbay2Bw",
+			"weight": 2,
+			"artists": [
+				"Dragonette"
+			],
+			"year": 2016,
+			"month": 1,
+			"day": 18,
+			"albums": [
+				"Royal Blues"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Body 2 Body",
+			"url": "https://www.youtube.com/watch?v=L_4w6QNvCH4",
+			"weight": 2,
+			"artists": [
+				"Dragonette"
+			],
+			"year": 2016,
+			"month": 1,
+			"day": 18,
+			"albums": [
+				"Royal Blues"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Curse",
+			"url": "https://www.youtube.com/watch?v=wikCVdrhsJc",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2009,
+			"month": 8,
+			"day": 24,
+			"albums": [
+				"Imagine Dragons"
+			],
+			"language": "en",
+			"genres": [
+				"rock"
+			]
+		},
+		{
+			"name": "All Eyes",
+			"url": "https://www.youtube.com/watch?v=r1epIsAgQeQ",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2010,
+			"month": 1,
+			"day": 25,
+			"albums": [
+				"Hell and Silence"
+			],
+			"language": "en",
+			"genres": [
+				"rock"
+			]
+		},
+		{
+			"name": "Ren'ai Circulation",
+			"url": "https://www.youtube.com/watch?v=jDR0JMyoQGA",
+			"weight": 2,
+			"artists": [
+				"Kana Hanazawa"
+			],
+			"year": 2009,
+			"month": 9,
+			"day": 4,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "It's Time",
+			"url": "https://www.youtube.com/watch?v=l9EhLOvxUSI",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2012,
+			"month": 2,
+			"day": 6,
+			"albums": [
+				"Continued Silence",
+				"Night Visions",
+				"It's Time"
+			],
+			"language": "en",
+			"genres": [
+				"rock"
+			]
+		},
+		{
+			"name": "Demons",
+			"url": "https://www.youtube.com/watch?v=J1aVXLHQRd4",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2012,
+			"month": 9,
+			"day": 4,
+			"albums": [
+				"Night Visions"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock"
+			]
+		},
+		{
+			"name": "Hear Me",
+			"url": "https://www.youtube.com/watch?v=VDiPFn8NVkE",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2012,
+			"month": 9,
+			"day": 4,
+			"albums": [
+				"Night Visions"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock"
+			]
+		},
+		{
+			"name": "Bleeding Out",
+			"url": "https://www.youtube.com/watch?v=mMteeDSb2uI",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2012,
+			"month": 9,
+			"day": 4,
+			"albums": [
+				"Night Visions"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock",
+				"EDM"
+			]
+		},
+		{
+			"name": "Cha-Ching (Till We Grow Older)",
+			"url": "https://www.youtube.com/watch?v=Aabfl5xQ6Xo",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2012,
+			"month": 9,
+			"day": 4,
+			"albums": [
+				"Night Visions"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock"
+			]
+		},
+		{
+			"name": "Working Man",
+			"url": "https://www.youtube.com/watch?v=TODipz1qmOo",
+			"weight": 1,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2012,
+			"month": 9,
+			"day": 4,
+			"albums": [
+				"Night Visions"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock"
+			]
+		},
+		{
+			"name": "Round And Round",
+			"url": "https://www.youtube.com/watch?v=TsIERBf9cuE",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2012,
+			"month": 9,
+			"day": 4,
+			"albums": [
+				"Continued Silence",
+				"Night Visions"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock"
+			]
+		},
+		{
 			"name": "Hikariful",
 			"url": "https://www.youtube.com/watch?v=fjj5WbtenTM",
 			"weight": 1,
