@@ -1169,25 +1169,6 @@
 			]
 		},
 		{
-			"name": "Whatever it Takes",
-			"url": "https://www.youtube.com/watch?v=M66U_DuMCS8",
-			"weight": 2,
-			"artists": [
-				"Imagine Dragons"
-			],
-			"year": 2017,
-			"month": 5,
-			"day": 9,
-			"albums": [
-				"Evolve"
-			],
-			"language": "en",
-			"genres": [
-				"r&b",
-				"rock"
-			]
-		},
-		{
 			"name": "Champagne Problems",
 			"url": "https://www.youtube.com/watch?v=wMpqCRF7TKg",
 			"weight": 2,
@@ -2196,6 +2177,370 @@
 			]
 		},
 		{
+			"name": "Warriors",
+			"url": "https://www.youtube.com/watch?v=1uBPOu3si5w",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2014,
+			"month": 9,
+			"day": 18,
+			"albums": [
+				"Smoke + Mirrors"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock"
+			]
+		},
+		{
+			"name": "Monster",
+			"url": "https://www.youtube.com/watch?v=7vJbBda35us",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2013,
+			"month": 9,
+			"day": 19,
+			"albums": [
+				"Smoke + Mirrors"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock"
+			]
+		},
+		{
+			"name": "Who We Are",
+			"url": "https://www.youtube.com/watch?v=LdMDjf9YDhU",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2013,
+			"month": 6,
+			"day": 19,
+			"albums": [
+				"Smoke + Mirrors"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock"
+			]
+		},
+		{
+			"name": "Whatever It Takes",
+			"url": "https://www.youtube.com/watch?v=cnRB2CgUpSw",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2017,
+			"month": 6,
+			"day": 23,
+			"albums": [
+				"Evolve"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock",
+				"R&B"
+			]
+		},
+		{
+			"name": "Start Over",
+			"url": "https://www.youtube.com/watch?v=2SD2e0TDb4A",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2017,
+			"month": 6,
+			"day": 23,
+			"albums": [
+				"Evolve"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock"
+			]
+		},
+		{
+			"name": "Natural",
+			"url": "https://www.youtube.com/watch?v=pXu6JC6-d_o",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2018,
+			"month": 7,
+			"day": 17,
+			"albums": [
+				"Origins"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock"
+			]
+		},
+		{
+			"name": "Machine",
+			"url": "https://www.youtube.com/watch?v=pvw_6NiF1f8",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2018,
+			"month": 10,
+			"day": 31,
+			"albums": [
+				"Origins"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock",
+				"EDM"
+			]
+		},
+		{
+			"name": "Cool Out",
+			"url": "https://www.youtube.com/watch?v=grfk5Yqygw8",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2018,
+			"month": 11,
+			"day": 9,
+			"albums": [
+				"Origins"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock"
+			]
+		},
+		{
+			"name": "Zero",
+			"url": "https://www.youtube.com/watch?v=Du1-glzUBZk",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2018,
+			"month": 9,
+			"day": 19,
+			"albums": [
+				"Origins"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock"
+			]
+		},
+		{
+			"name": "Wrecked",
+			"url": "https://www.youtube.com/watch?v=KrYrvycI4mo",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2021,
+			"month": 7,
+			"day": 2,
+			"albums": [
+				"Mercury"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock"
+			]
+		},
+		{
+			"name": "Sharks",
+			"url": "https://www.youtube.com/watch?v=6JQoEpCElYg",
+			"weight": 2,
+			"artists": [
+				"Imagine Dragons"
+			],
+			"year": 2022,
+			"month": 6,
+			"day": 24,
+			"albums": [
+				"Mercury"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock"
+			]
+		},
+		{
+			"name": "Maroon",
+			"url": "https://www.youtube.com/watch?v=lvHZjvIyqsk",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2022,
+			"month": 10,
+			"day": 21,
+			"albums": [
+				"Midnights"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop",
+				"dream pop"
+			]
+		},
+		{
+			"name": "Anti-Hero",
+			"url": "https://www.youtube.com/watch?v=b1kbLwvqugk",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2022,
+			"month": 10,
+			"day": 21,
+			"albums": [
+				"Midnights"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Snow On The Beach",
+			"url": "https://www.youtube.com/watch?v=ycE7bUq3-2k",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift",
+				"Lana Del Rey"
+			],
+			"year": 2022,
+			"month": 10,
+			"day": 21,
+			"albums": [
+				"Midnights"
+			],
+			"language": "en",
+			"genres": [
+				"dream pop"
+			]
+		},
+		{
+			"name": "You're On Your Own, Kid",
+			"url": "https://www.youtube.com/watch?v=7Gbg6Z70J7E",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2022,
+			"month": 10,
+			"day": 21,
+			"albums": [
+				"Midnights"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "The Great War",
+			"url": "https://www.youtube.com/watch?v=iFX6_9h7th0",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2022,
+			"month": 10,
+			"day": 21,
+			"albums": [
+				"Midnights"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop",
+				"folk"
+			]
+		},
+		{
+			"name": "Bigger Than The Whole Sky",
+			"url": "https://www.youtube.com/watch?v=l8Tps3PITx4",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2022,
+			"month": 10,
+			"day": 21,
+			"albums": [
+				"Midnights"
+			],
+			"language": "en",
+			"genres": [
+				"dream pop"
+			]
+		},
+		{
+			"name": "Paris",
+			"url": "https://www.youtube.com/watch?v=ySZGZrcqvr4",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2022,
+			"month": 10,
+			"day": 21,
+			"albums": [
+				"Midnights"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Would've, Could've, Should've",
+			"url": "https://www.youtube.com/watch?v=B-MfwP_RmHY",
+			"weight": 2,
+			"artists": [
+				"Taylor Swift"
+			],
+			"year": 2022,
+			"month": 10,
+			"day": 21,
+			"albums": [
+				"Midnights"
+			],
+			"language": "en",
+			"genres": [
+				"pop",
+				"rock"
+			]
+		},
+		{
 			"name": "Hikariful",
 			"url": "https://www.youtube.com/watch?v=fjj5WbtenTM",
 			"weight": 1,
@@ -2483,14 +2828,17 @@
 				"Taylor Swift"
 			],
 			"year": 2022,
-			"month": 11,
-			"day": 29,
+			"month": 20,
+			"day": 21,
 			"albums": [
 				"Midnights"
 			],
 			"language": "en",
 			"genres": [
-				"pop"
+				"pop",
+				"EDM",
+				"R&B",
+				"dream pop"
 			]
 		},
 		{
@@ -2989,6 +3337,37 @@
 			"language": "en",
 			"genres": [
 				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Kiss (and) Love",
+			"url": "https://www.youtube.com/watch?v=92pavWBttD4",
+			"weight": 2,
+			"artists": [
+				"Haruka Tomatsu",
+				"Yuka Iguchi"
+			],
+			"year": 2014,
+			"month": 1,
+			"day": 9,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "To the Beginning",
+			"url": "https://www.youtube.com/watch?v=b1bXu0XZDlU",
+			"weight": 2,
+			"artists": [
+				"Kalafina"
+			],
+			"year": 2012,
+			"month": 4,
+			"day": 18,
+			"language": "ja",
+			"genres": [
 				"pop"
 			]
 		}
