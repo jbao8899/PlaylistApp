@@ -2541,6 +2541,54 @@
 			]
 		},
 		{
+			"name": "WHIMSICAL WAYWARD WISH",
+			"url": "https://www.youtube.com/watch?v=4zMGQkzZ4YQ",
+			"weight": 2,
+			"artists": [
+				"TECHNOBOYS PULCRAFT GREEN-FUND",
+				"Yumeha Kouda"
+			],
+			"year": 2016,
+			"month": 7,
+			"day": 6,
+			"language": "ja",
+			"genres": [
+				"pop",
+				"EDM"
+			]
+		},
+		{
+			"name": "theater D",
+			"url": "https://www.youtube.com/watch?v=QI9KbPv6TsY",
+			"weight": 2,
+			"artists": [
+				"MYTH & ROID"
+			],
+			"year": 2016,
+			"month": 7,
+			"day": 3,
+			"language": "ja",
+			"genres": [
+				"pop",
+				"rock"
+			]
+		},
+		{
+			"name": "sister's noise",
+			"url": "https://www.youtube.com/watch?v=e6g3mkqhFzo",
+			"weight": 2,
+			"artists": [
+				"fripSide"
+			],
+			"year": 2013,
+			"month": 4,
+			"day": 12,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
 			"name": "Hikariful",
 			"url": "https://www.youtube.com/watch?v=fjj5WbtenTM",
 			"weight": 1,
@@ -2556,8 +2604,8 @@
 			]
 		},
 		{
-			"name": "Kimino Ginno Niwa",
-			"url": "https://www.youtube.com/watch?v=XkSjf0ah-O4",
+			"name": "Misterioso",
+			"url": "https://www.youtube.com/watch?v=7tNK3BGbd1k",
 			"weight": 1,
 			"artists": [
 				"Kalafina"
@@ -2565,6 +2613,36 @@
 			"year": 2013,
 			"month": 11,
 			"day": 6,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Noi!",
+			"url": "https://www.youtube.com/watch?v=7YwH3yYIkJ4",
+			"weight": 2,
+			"artists": [
+				"Yuki Kajiura"
+			],
+			"year": 2013,
+			"month": 10,
+			"day": 26,
+			"language": "de",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Mada Dameyo",
+			"url": "https://www.youtube.com/watch?v=u_BXFfQhSDk",
+			"weight": 1,
+			"artists": [
+				"Yuki Kajiura"
+			],
+			"year": 2013,
+			"month": 10,
+			"day": 26,
 			"language": "ja",
 			"genres": [
 				"pop"
@@ -2590,38 +2668,8 @@
 			]
 		},
 		{
-			"name": "Mada Dameyo",
-			"url": "https://www.youtube.com/watch?v=u_BXFfQhSDk",
-			"weight": 1,
-			"artists": [
-				"Yuki Kajiura"
-			],
-			"year": 2013,
-			"month": 10,
-			"day": 26,
-			"language": "ja",
-			"genres": [
-				"pop"
-			]
-		},
-		{
-			"name": "Noi!",
-			"url": "https://www.youtube.com/watch?v=7YwH3yYIkJ4",
-			"weight": 2,
-			"artists": [
-				"Yuki Kajiura"
-			],
-			"year": 2013,
-			"month": 10,
-			"day": 26,
-			"language": "de",
-			"genres": [
-				"pop"
-			]
-		},
-		{
-			"name": "Misterioso",
-			"url": "https://www.youtube.com/watch?v=7tNK3BGbd1k",
+			"name": "Kimino Ginno Niwa",
+			"url": "https://www.youtube.com/watch?v=XkSjf0ah-O4",
 			"weight": 1,
 			"artists": [
 				"Kalafina"
@@ -2629,21 +2677,6 @@
 			"year": 2013,
 			"month": 11,
 			"day": 6,
-			"language": "ja",
-			"genres": [
-				"pop"
-			]
-		},
-		{
-			"name": "Akogaresaita",
-			"url": "https://www.youtube.com/watch?v=xlbWL06n4MM",
-			"weight": 2,
-			"artists": [
-				"Aoi Yuki"
-			],
-			"year": 2016,
-			"month": 1,
-			"day": 1,
 			"language": "ja",
 			"genres": [
 				"pop"
@@ -3369,6 +3402,138 @@
 			"language": "ja",
 			"genres": [
 				"pop"
+			]
+		},
+		{
+			"name": "Akogaresaita",
+			"url": "https://www.youtube.com/watch?v=xlbWL06n4MM",
+			"weight": 2,
+			"artists": [
+				"Aoi Yuki"
+			],
+			"year": 2016,
+			"month": 1,
+			"day": 1,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Soraha Takaku Kazeha Utau",
+			"url": "https://www.youtube.com/watch?v=jbpU7O-Xv98",
+			"weight": 2,
+			"artists": [
+				"Haruna Luna"
+			],
+			"year": 2012,
+			"month": 4,
+			"day": 7,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Manten",
+			"url": "https://www.youtube.com/watch?v=VYNvIQrtSsU",
+			"weight": 2,
+			"artists": [
+				"Kalafina"
+			],
+			"year": 2012,
+			"month": 5,
+			"day": 5,
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Om du var min",
+			"url": "https://www.youtube.com/watch?v=1GlSnCinPRs",
+			"weight": 2,
+			"artists": [
+				"Nanne Grönvall"
+			],
+			"year": 2005,
+			"language": "sv",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Butterfly",
+			"url": "https://www.youtube.com/watch?v=FrRjR-SWLR8",
+			"weight": 2,
+			"artists": [
+				"Smile.dk"
+			],
+			"year": 1998,
+			"month": 7,
+			"day": 13,
+			"albums": [
+				"Smile"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Koko Soko",
+			"url": "https://www.youtube.com/watch?v=QFep9oaYoa8",
+			"weight": 2,
+			"artists": [
+				"Smile.dk"
+			],
+			"year": 2016,
+			"month": 5,
+			"day": 25,
+			"albums": [
+				"Koko Soko 2016"
+			],
+			"language": "en",
+			"genres": [
+				"EDM",
+				"pop"
+			]
+		},
+		{
+			"name": "Connect",
+			"url": "https://www.youtube.com/watch?v=7EuTPTVpuNI",
+			"weight": 2,
+			"artists": [
+				"ClariS"
+			],
+			"year": 2011,
+			"month": 1,
+			"day": 7,
+			"albums": [
+				"Birthday"
+			],
+			"language": "ja",
+			"genres": [
+				"pop"
+			]
+		},
+		{
+			"name": "Sleepwalker",
+			"url": "https://www.youtube.com/watch?v=TND-d3u3rEw",
+			"weight": 2,
+			"artists": [
+				"Nightwish"
+			],
+			"year": 2000,
+			"month": 5,
+			"day": 8,
+			"albums": [
+				"Wishmaster"
+			],
+			"language": "en",
+			"genres": [
+				"rock"
 			]
 		}
 	]
